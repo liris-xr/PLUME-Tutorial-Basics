@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 7b6fa72a1a1e423bb8c1b1fcaf239873, type: 3}
   m_Name: HooksSettings
-  m_EditorClassIdentifier: PLUME.Recorder:PLUME.Core.Settings:HooksSettings
+  m_EditorClassIdentifier: 
   blacklistedAssemblyNames: []
